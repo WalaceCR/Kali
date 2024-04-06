@@ -1,7 +1,6 @@
 package aulas;
 
-import aulas.aula1.Aula1ListasExercicio;
-import aulas.aula1.ServicoDeImpressao;
+import aulas.secao19.ServicoDeImpressao;
 
 public class Main {
     public static void main(String[] args) {
