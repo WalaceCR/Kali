@@ -1,7 +1,9 @@
 package calculadora;
 
 // CalculadoraTest.java
-import org.junit.jupiter.Test;
+import org.testng.annotations.Test;
+import programacao.calculos.Calculadora;
+
 import static org.junit.Assert.*;
 
 public class CalculadoraTest {
