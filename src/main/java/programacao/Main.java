@@ -1,6 +1,6 @@
-package aulas;
+package programacao;
 
-import aulas.secao19.ServicoDeImpressao;
+import programacao.defensiva.ServicoDeImpressao;
 
 public class Main {
     public static void main(String[] args) {
